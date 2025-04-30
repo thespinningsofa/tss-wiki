@@ -1,0 +1,9 @@
+setuptools
+mkdocs-material==9.5.35
+mkdocs-obsidian-bridge
+mkdocs-awesome-pages-plugin
+mkdocs-snippets
+mdx_truly_sane_lists
+mdx_breakless_lists
+mkdocs-drawio
+mkdocs-panzoom-plugin
