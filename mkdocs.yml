@@ -2,6 +2,9 @@ site_name: The Spinning Sofa
 site_dir: site
 
 theme:
+  logo: assets/favicon.png
+  font:
+    text: Jetbrains Mono
   name: material
   palette:
     # Palette toggle for dark mode
