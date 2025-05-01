@@ -1,6 +1,6 @@
 site_name: The Spinning Sofa
 site_dir: site
-use_directory_urls: false
+use_directory_urls: true
 
 theme:
   logo: assets/favicon.png
