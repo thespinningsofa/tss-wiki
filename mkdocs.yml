@@ -29,7 +29,6 @@ theme:
 markdown_extensions:
   - pymdownx.details
   - pymdownx.tabbed
-  - pymdownx.caption
   - md_in_html
   - abbr
   - attr_list
